@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhusmitapalai
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on frontend projects
 
 <!---
